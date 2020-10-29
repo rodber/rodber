@@ -5,7 +5,7 @@ I'm a self-taught software developer from Chile. People may (not) know me for be
 - 👀 I'm looking for collaborators (want to help me?)
 - 📝 I blog at [rodolfo.is](https://rodolfo.is/)
 - 🥑 I work with PHP, JavaScript and MySQL (plus all the usual web dongle) 
-- 🤷🏾 I'm a metalurgical enginner (yeah, I know)
+- 🎓 I'm a metallurgical engineer
 - 🐧 I ❤ dev on Linux
 
 ## Avaibility for work
