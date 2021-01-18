@@ -1,12 +1,13 @@
 # Hey there 👋🏾
 
-I'm a self-taught software developer from Chile. People may (not) know me for being the **single developer** who creates [Chevereto](https://chevereto.com/) image hosting software and [Chevere](https://chevere.org/) framework.
+I'm a Chilean software developer. Some may know me for being the creator of [Chevereto](https://chevereto.com/) and [Chevere](https://chevere.org/).
 
-- 👀 I'm looking for collaborators (want to help me?)
+❤ You can [donate](https://paypal.me/RodolfoBerrios) to support my work. I'm mostly into self-hosted software.
+
 - 📝 I blog at [rodolfo.is](https://rodolfo.is/)
+- 👀 I'm looking for collaborators
 - 🥑 I work with PHP, JavaScript and SQL (plus all the usual dongle) 
-- 🎓 I'm a metallurgical engineer
-- 🐧 I ❤ dev on Linux
+- 🐧 I dev on Linux
 
 ## Avaibility for work
 
