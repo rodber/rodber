@@ -1,6 +1,6 @@
 # Hey there 👋🏾
 
-I'm a Chilean software developer. Some may know me for being the creator of [Chevereto](https://chevereto.com/) and [Chevere](https://chevere.org/).
+I'm an indie software developer from Chile. Some may know me for being the creator of [Chevereto](https://chevereto.com/) and [Chevere](https://chevere.org/).
 
 ❤ You can [donate](https://paypal.me/RodolfoBerrios) to support my work. I'm mostly into self-hosted software.
 
