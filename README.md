@@ -2,7 +2,7 @@
 
 I'm an indie software developer from Chile. Some may know me for being the creator of [Chevereto](https://chevereto.com/) and [Chevere](https://chevere.org/).
 
-I started with development when I was in college (I'm a Metallurgical engineer) by doing simple webpages. I self-taught my way into developing software and since 2007 I've been making Chevereto.
+I started with development when I was in college (I'm a Metallurgical Engineer) by doing simple webpages. I self-taught my way into developing software and since 2007 I've been making Chevereto.
 
 I'm proud of Chevereto and for being able to build my career around my own software.
 
