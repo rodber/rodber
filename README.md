@@ -10,9 +10,10 @@ I'm proud of Chevereto and for being able to build my career around my own softw
 
 - 📝 I blog at [rodolfo.is](https://rodolfo.is/)
 - 👀 I'm looking for collaborators
-- 🥑 I work with PHP, JavaScript and SQL (plus all the usual dongle)
+- 🥑 I work with server-side software
 - 🐧 I dev on Linux
+- 🤗 También hablo español
 
 ## Availability for work
 
-I'm available for custom work and support for any of the software I made. I'm also available to code review and quality assurance for any kind of PHP project.
+I'm available for custom work and support for any of the software I made. I'm also available to code review, quality assurance and consulting for any kind of PHP-based project.
