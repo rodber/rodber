@@ -10,11 +10,12 @@ I'm proud of Chevereto and for being able to build my career around my own softw
 
 - 📝 I blog at [rodolfo.is](https://rodolfo.is/)
 - 👀 I'm looking for collaborators
-- 🥑 I work with PHP (plus all the usual dongle)
+- 🥑 I work with server-side software
 - 🐧 I dev on Linux
+- 🤗 También hablo español
 
 ## Available for hire
 
-I'm specialized in backend PHP software and I've plenty years of experience. I can design systems, code review, quality assurance, modernizing and consulting for any kind of PHP project.
+I'm specialized in backend PHP software and I've plenty years of experience with it. I can design systems, code review, quality assurance, modernizing and consulting for any kind of PHP project.
 
 I live in Chile and I'm available for remote work,  I'm willing to move overseas if needed.
