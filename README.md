@@ -8,6 +8,4 @@ I'm an indie software developer from Chile. Some may know me for being the creat
 - 🐧 I dev on Linux
 - 🤗 También hablo español
 
-## Availability for work
-
 I'm available for custom work and support for any of the software I made. I'm also available to code review, quality assurance and consulting for any kind of PHP-based project.
