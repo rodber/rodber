@@ -1,6 +1,6 @@
 # Hey there 👋🏾
 
-I'm an indie software developer from Chile. Some may know me for being the creator of [Chevereto](https://chevereto.com/) and [Chevere](https://chevere.org/).
+I'm Rodolfo, an indie software developer from Chile. I'm the creator of [Chevereto](https://chevereto.com/) and [Chevere](https://chevere.org/).
 
 - I 📝 blog at [rodolfo.is](https://rodolfo.is/)
 - I'm 👀 looking for collaborators
