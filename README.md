@@ -7,4 +7,4 @@ I'm an engineer and indie software developer from Chile. I'm the creator of [Che
 - 🥑 I work with server-side software
 - 🤗 También hablo español
 
-I'm available for working on top of any of the software I made. I'm also available to code review, quality assurance and consulting for any PHP-based project.
+I'm available for work on code review, quality assurance and consulting for any PHP-based project.
