@@ -7,6 +7,6 @@ I'm the creator of [Chevereto](https://chevereto.com/) and [Chevere](https://che
 ## FAQ
 
 * 👉 I'm available for work
-* 📝 I blog at [rodolfo.is](https://rodolfo.is/)
+* 📝 I blog at [rodolfoberrios.com](https://rodolfoberrios.com)
 * 🦜 Follow me at [@godlike](https://twitter.com/godlike)
 * 🤗 También hablo español ~ *¡Viva La Raza!*
