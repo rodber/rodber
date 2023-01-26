@@ -3,7 +3,7 @@
 I'm the creator of [Chevereto](https://chevereto.com/) and [Chevere](https://chevere.org/).
 
 * 📝 Read my blog at [rodolfoberrios.com](https://rodolfoberrios.com)
-* 💸 I may be available for work, [book a meeting](https://calendly.com/rodber) to talk about your project
+* 💸 [Book a meeting](https://calendly.com/rodber) to talk with me
 * 🧙 Checkout [my range](https://sonarcloud.io/organizations/chevere/projects?sort=name) 
 * 🦜 Follow me at [@godlike](https://twitter.com/godlike)
 * 🇨🇱 I also speak Spanish. ~ *¡Holanda que Talca!*
