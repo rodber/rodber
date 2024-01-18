@@ -1,6 +1,6 @@
 # Hey there 👋🏾
 
-I'm the creator of [Chevereto](https://chevereto.com/) and [Chevere](https://chevere.org/). I design and build custom systems from scratch, my speciality is in high quality server-side software.
+I'm the creator of [xrDebug](https://xrdebug.com/), [Chevereto](https://chevereto.com/) and [Chevere](https://chevere.org/). I design and build custom systems from scratch, my speciality is in server-side software and database design.
 
 I can build your next 10-year performant project.
 
