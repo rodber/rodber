@@ -5,7 +5,7 @@ I'm the creator of [xrDebug](https://xrdebug.com/), [Chevereto](https://cheveret
 I *may* be available for contract work, feel free to ask.
 
 * Read my blog at [rodolfoberrios.com](https://rodolfoberrios.com)
-*[Book a meeting](https://calendly.com/rodber) to talk with me
+* [Book a meeting](https://calendly.com/rodber) to talk with me
 * Checkout [my range](https://sonarcloud.io/organizations/chevere/projects?sort=name) 
 * Follow me at [@godlike](https://twitter.com/godlike)
 * I also speak Spanish
