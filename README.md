@@ -10,4 +10,4 @@ I *may* be available for contract work, feel free to ask.
 * Follow me at [@godlike](https://twitter.com/godlike)
 * I also speak Spanish
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rodber&count_private=true&show_icons=true&custom_title=Stats)
+![chevereto-ultimate-remix](https://github.com/rodber/rodber/assets/20590102/d606c58a-374c-4fbe-8c8f-f1339d37bbc3)
